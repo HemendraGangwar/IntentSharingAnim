@@ -1,6 +1,5 @@
 # IntentSharingAnim
 <h4>Intent sharing between activities of views with animation</h4>
-<br/>
 This example basically includes :
 <br/>
 Intent sharing between activities of views with animation
