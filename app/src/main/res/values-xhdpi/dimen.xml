@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layoutMarginLR">40dp</dimen>
+    <dimen name="layoutMarginSLR">25dp</dimen>
+
+
+    <dimen name="edtFieldHeight">48dp</dimen>
+    <dimen name="edtFieldsPadding">10dp</dimen>
+    <dimen name="edtFieldsPaddingLR">25dp</dimen>
+     <dimen name="edtMarginTop">10dp</dimen>
+    <dimen name="edtMarginLogoTop">30dp</dimen>
+    <dimen name="edtTextSize">14sp</dimen>
+
+    <dimen name="btnHeight">48dp</dimen>
+    <dimen name="btnTextSize">16sp</dimen>
+    <dimen name="textSize">14sp</dimen>
+
+</resources>

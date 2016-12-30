@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ShareIntentAnim</string>
+
+    <!--Login Screen-->
+    <string name="hint_user_name">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_pwd">forgot password?</string>
+    <string name="login">Login</string>
+    <string name="submit">Submit</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <!--  <string name="forgot_pwd_confirmation">Please enter your email address, we will send password reset link on your email Id.</string>-->
+    <string name="forgot_pwd_confirmation">Reset Password</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_password">Enter the password</string>
+
+    <!--Navigation Drawer-->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="User_Profile">Profile</string>
+    <string name="Manage_Invoice">Manage Invoice</string>
+    <string name="Manage_Inventory">Manage Inventory</string>
+    <string name="Manage_Cost">Manage Cost</string>
+    <string name="Share">Share</string>
+    <string name="Send">Send</string>
+    <string name="search">Search</string>
+    <string name="Edit">Edit</string>
+    <string name="title_activity_login_vac_admin">LoginActivityVacAdmin</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+
+</resources>

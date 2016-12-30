@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF4C4C</color>
+    <color name="colorPrimaryDark">#FF0000</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <!--fab colors-->
+    <color name="fab_background_tint">#FFEEEEEE</color>
+    <color name="fab_drawable_tint">@android:color/white</color>
+    <color name="mini_fab_drawable_tint">@android:color/black</color>
+    <color name="title_text_color">@android:color/black</color>
+    <color name="mini_fab_title_background_tint">@android:color/white</color>
+    <color name="gray_bg">#E8E8E8</color>
+    <color name="transparent_color">#00000000</color>
+
+    <!--colors VacAdmin-->
+    <color name="colorAccent">#FFE500</color>
+    <color name="edtFieldsBgColor">#18293D</color>
+    <color name="btnTextColor">#080B10</color>
+
+
+</resources>

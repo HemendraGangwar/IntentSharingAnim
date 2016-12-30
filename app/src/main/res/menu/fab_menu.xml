@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="io.github.yavski.fabspeeddial.samples.PositionSampleActivity">
+    <item
+        android:id="@+id/action_call"
+        android:icon="@mipmap/ic_edit"
+        android:orderInCategory="100"
+        android:title="@string/search"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_text"
+        android:icon="@mipmap/ic_edit"
+        android:orderInCategory="100"
+        android:title="@string/Edit"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_email"
+        android:icon="@mipmap/ic_edit"
+        android:orderInCategory="100"
+        android:title="@string/search"
+        app:showAsAction="never" />
+
+</menu>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <declare-styleable name="FabSpeedDial">
+        <!-- Compulsory attributes -->
+        <attr name="fabMenu" format="reference" />
+        <attr name="fabGravity">
+            <flag name="bottom_end" value="0x00" />
+            <flag name="bottom_start" value="0x01" />
+            <flag name="top_end" value="0x02" />
+            <flag name="top_start" value="0x03" />
+        </attr>
+
+        <!-- Optional attributes -->
+        <attr name="fabDrawable" format="color|reference" />
+        <attr name="fabDrawableTint" format="color|reference" />
+        <attr name="fabBackgroundTint" format="color|reference" />
+
+        <attr name="miniFabBackgroundTint" format="color|reference" />
+        <attr name="miniFabBackgroundTintList" format="reference" />
+        <attr name="miniFabDrawableTint" format="color|reference" />
+        <attr name="miniFabTitleTextColor" format="color|reference" />
+        <attr name="miniFabTitleTextColorList" format="reference" />
+
+        <attr name="touchGuard" format="boolean" />
+        <attr name="touchGuardDrawable" format="color|reference" />
+
+        <attr name="miniFabTitleBackgroundTint" format="color|reference"/>
+        <attr name="miniFabTitlesEnabled" format="boolean"/>
+
+
+    </declare-styleable>
+
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="btnWidth">160dp</dimen>
+    <dimen name="btnTextSize">16sp</dimen>
+    <dimen name="btnMarginTop">25dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">10dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="fab_margin_button">16dp</dimen>
+
+
+    <!--Fab menu dimens-->
+    <dimen name="keyline_1">16dp</dimen>
+    <dimen name="keyline_1_minus_8dp">8dp</dimen>
+
+    <!-- Needed as the impl of CardView in pre-Lollipop unnecessarily adds 16 dp to the top and bottom -->
+    <dimen name="fab_menu_item_margin_top">-16dp</dimen>
+    <!-- CoordinatorLayout adds to the margins of the FAB, official bug: 'Issue 176096:
+    Using CoordinatorLayout view anchors will cause margins to be ignored' -->
+    <dimen name="coordinator_layout_offset">12dp</dimen>
+    <!-- Needed as another side effect of the bug above -->
+
+    <dimen name="fab_margin">0dp</dimen>
+
+    <!-- Needed in order to align vertically the fabs -->
+    <dimen name="mini_fab_margin_left">@dimen/keyline_1_minus_8dp</dimen>
+    <dimen name="mini_fab_margin_top">0dp</dimen>
+    <dimen name="mini_fab_margin_right">@dimen/keyline_1_minus_8dp</dimen>
+    <dimen name="mini_fab_margin_bottom">0dp</dimen>
+
+
+</resources>
